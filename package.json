@@ -1,0 +1,17 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "API testing example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test -- test/jokes.test.js"
+  },
+  "author": "Nicolás Pizarro",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}

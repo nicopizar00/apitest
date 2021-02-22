@@ -1,0 +1,16 @@
+{
+    "formatVersion": 3,
+    "category": "Misc",
+    "type": "twopart",
+    "setup": "Que le dice un perro a su amo...",
+    "delivery": "Nada, los perros no hablan.",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": true,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "lang": "es"
+}

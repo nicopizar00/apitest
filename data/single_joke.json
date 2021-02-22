@@ -1,0 +1,15 @@
+{
+    "formatVersion": 3,
+    "category": "Misc",
+    "type": "single",
+    "joke": "Habia una vez un perro llamado Pegamento, se cayó y se pegó...",
+    "flags": {
+        "nsfw": false,
+        "religious": false,
+        "political": true,
+        "racist": false,
+        "sexist": false,
+        "explicit": false
+    },
+    "lang": "es"
+}
